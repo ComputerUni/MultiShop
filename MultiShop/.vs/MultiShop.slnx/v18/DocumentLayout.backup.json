@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\catalog\\multishop.catalog\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\catalog\\multishop.catalog\\services\\categoryservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\services\\categoryservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productimagedtos\\updateproductimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productimagedtos\\updateproductimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\catalog\\multishop.catalog\\services\\categoryservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\services\\categoryservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productimagedtos\\createproductimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productimagedtos\\createproductimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productimagedtos\\getbyidproductimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productimagedtos\\getbyidproductimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productimagedtos\\resultproductimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productimagedtos\\resultproductimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\catalog\\multishop.catalog\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,67 +43,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GeneralMapping.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\CategoryService.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\CategoryService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBUAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T20:00:22.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetByIdProductImageDto.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\GetByIdProductImageDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\GetByIdProductImageDto.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\GetByIdProductImageDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\GetByIdProductImageDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T19:58:00.117Z",
+              "WhenOpened": "2026-11-22T15:50:20.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateProductImageDto.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\CreateProductImageDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\CreateProductImageDto.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\CreateProductImageDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\CreateProductImageDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entities\\Category.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T19:57:42.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-22T15:47:44.797Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateProductImageDto.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\UpdateProductImageDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\UpdateProductImageDto.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\UpdateProductImageDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\UpdateProductImageDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Services\\CategoryServices\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T19:57:24.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ResultProductImageDto.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\ResultProductImageDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\ResultProductImageDto.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\ResultProductImageDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductImageDtos\\ResultProductImageDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-16T19:57:06.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-22T15:45:14.765Z"
             }
           ]
         },
