@@ -13,21 +13,21 @@ namespace MultiShop.Discount.Services
             _context = context;
         }
 
-        public async Task CreateCouponAsync(CreateCouponDto createCouponDto)
+        public async Task CreateDiscountCouponAsync(CreateDiscountCouponDto createDiscountCouponDto)
         {
             string query = "INSERT INTO Coupons (Code, Rate, IsActive, ValidDate) VALUES (@Code, @Rate, @IsActive, @ValidDate)";
             var parameters = new DynamicParameters();
-            parameters.Add("@Code", createCouponDto.Code);
-            parameters.Add("@Rate", createCouponDto.Rate);
-            parameters.Add("@IsActive", createCouponDto.IsActive);
-            parameters.Add("@ValidDate", createCouponDto.ValidDate);
+            parameters.Add("@Code", createDiscountCouponDto.Code);
+            parameters.Add("@Rate", createDiscountCouponDto.Rate);
+            parameters.Add("@IsActive", createDiscountCouponDto.IsActive);
+            parameters.Add("@ValidDate", createDiscountCouponDto.ValidDate);
             using (var connection = _context.CreateConnection())
             {
                 await connection.ExecuteAsync(query, parameters);
             }
         }
 
-        public async Task DeleteCouponAsync(int id)
+        public async Task DeleteDiscountCouponAsync(int id)
         {
             string query = "DELETE FROM Coupons WHERE CouponId = @CouponId";
             var parameters = new DynamicParameters();
@@ -38,36 +38,37 @@ namespace MultiShop.Discount.Services
             }
         }
 
-        public async Task<List<ResultCouponDto>> GetAllCouponAsync()
+        public async Task<List<ResultDiscountCouponDto>> GetAllDiscountCouponAsync()
         {
             string query = "SELECT * FROM Coupons";
             using (var connection = _context.CreateConnection())
             {
-                var values = await connection.QueryAsync<ResultCouponDto>(query);
+                var values = await connection.QueryAsync<ResultDiscountCouponDto>(query);
                 return values.ToList();
             }
         }
 
-        public async Task<GetByIdCouponDto> GetByIdCouponAsync(int id)
+        public async Task<GetByIdDiscountCouponDto> GetByIdDiscountCouponAsync(int id)
         {
             string query = "SELECT * FROM Coupons WHERE CouponId = @CouponId";
             var parameters = new DynamicParameters();
             parameters.Add("@CouponId", id);
             using (var connection = _context.CreateConnection())
             {
-                var value = await connection.QueryFirstOrDefaultAsync<GetByIdCouponDto>(query, parameters);
+                var value = await connection.QueryFirstOrDefaultAsync<GetByIdDiscountCouponDto>(query, parameters);
                 return value;
             }
         }
 
-        public async Task UpdateCouponAsync(UpdateCouponDto updateCouponDto)
+        public async Task UpdateDiscountCouponAsync(UpdateDiscountCouponDto updateDiscountCouponDto)
         {
-            string query = "UPDATE Coupons SET Code = @Code, Rate = @Rate, IsActive = @IsActive, ValidDate = @ValidDate";
+            string query = "UPDATE Coupons SET Code = @Code, Rate = @Rate, IsActive = @IsActive, ValidDate = @ValidDate WHERE CouponId = @CouponId";
             var parameters = new DynamicParameters();
-            parameters.Add("@Code", updateCouponDto.Code);
-            parameters.Add("@Rate", updateCouponDto.Rate);
-            parameters.Add("@IsActive", updateCouponDto.IsActive);
-            parameters.Add("@ValidDate", updateCouponDto.ValidDate);
+            parameters.Add("@Code", updateDiscountCouponDto.Code);
+            parameters.Add("@Rate", updateDiscountCouponDto.Rate);
+            parameters.Add("@IsActive", updateDiscountCouponDto.IsActive);
+            parameters.Add("@ValidDate", updateDiscountCouponDto.ValidDate);
+            parameters.Add("@CouponId", updateDiscountCouponDto.CouponId);
             using (var connection = _context.CreateConnection())
             {
                 await connection.ExecuteAsync(query, parameters);
