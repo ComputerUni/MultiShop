@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\catalog\\multishop.catalog\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\discount\\multishop.discount\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA4F656-93BE-4B5E-A680-7E19A53D2529}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\discount\\multishop.discount\\services\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\services\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\discount\\multishop.discount\\dtos\\createcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\dtos\\createcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\discount\\multishop.discount\\dtos\\resultcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\dtos\\resultcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\discount\\multishop.discount\\dtos\\updatecoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\dtos\\updatecoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\discount\\multishop.discount\\dtos\\getbyidcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\dtos\\getbyidcoupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\discount\\multishop.discount\\entities\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\entities\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\discount\\multishop.discount\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\burhan\\desktop\\multishop\\multishop\\services\\discount\\multishop.discount\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECA4412-041A-4189-82AC-1DFC5C79854C}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,27 +67,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GeneralMapping.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Services\\DiscountService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-22T19:01:40.75Z",
+              "WhenOpened": "2026-11-24T13:26:40.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Program.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAnAAAAAAAAAA==",
+              "Title": "IDiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\IDiscountService.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Services\\IDiscountService.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Services\\IDiscountService.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Services\\IDiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-22T18:51:42.385Z",
+              "WhenOpened": "2026-11-24T13:26:17.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Entities\\Coupon.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Entities\\Coupon.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Entities\\Coupon.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Entities\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:24:04.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetByIdCouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Dtos\\GetByIdCouponDto.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Dtos\\GetByIdCouponDto.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Dtos\\GetByIdCouponDto.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Dtos\\GetByIdCouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:23:53.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Dtos\\UpdateCouponDto.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Dtos\\UpdateCouponDto.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Dtos\\UpdateCouponDto.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Dtos\\UpdateCouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:22:13.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultCouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Dtos\\ResultCouponDto.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Dtos\\ResultCouponDto.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Dtos\\ResultCouponDto.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Dtos\\ResultCouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:21:56.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Dtos\\CreateCouponDto.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Dtos\\CreateCouponDto.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Dtos\\CreateCouponDto.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Dtos\\CreateCouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:21:39.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:16:56.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\appsettings.json",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Discount\\MultiShop.Discount\\appsettings.json",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-24T13:16:07.312Z",
               "EditorCaption": ""
             }
           ]

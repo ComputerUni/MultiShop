@@ -3,4 +3,7 @@
   <Folder Name="/Services/Catalog/">
     <Project Path="Services/Catalog/MultiShop.Catalog/MultiShop.Catalog.csproj" Id="6ea4f656-93be-4b5e-a680-7e19a53d2529" />
   </Folder>
+  <Folder Name="/Services/Discount/">
+    <Project Path="Services/Discount/MultiShop.Discount/MultiShop.Discount.csproj" Id="deca4412-041a-4189-82ac-1dfc5c79854c" />
+  </Folder>
 </Solution>
