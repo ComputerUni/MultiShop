@@ -6,4 +6,15 @@
   <Folder Name="/Services/Discount/">
     <Project Path="Services/Discount/MultiShop.Discount/MultiShop.Discount.csproj" Id="deca4412-041a-4189-82ac-1dfc5c79854c" />
   </Folder>
+  <Folder Name="/Services/Order/" />
+  <Folder Name="/Services/Order/Core/">
+    <Project Path="Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj" Id="b87df3bb-47b2-4bc6-9e56-e3f9b98866f7" />
+    <Project Path="Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj" Id="c5152d59-c7c1-4db8-90ce-35bc24e5fc76" />
+  </Folder>
+  <Folder Name="/Services/Order/Infrastructure/">
+    <Project Path="Services/Order/Infrastructure/MultiShop.Order.Persistence/MultiShop.Order.Persistence.csproj" Id="950eb949-4b00-4100-a140-45b4366f067a" />
+  </Folder>
+  <Folder Name="/Services/Order/Presentation/">
+    <Project Path="Services/Order/Presentation/MultiShop.Order.WebApi/MultiShop.Order.WebApi.csproj" Id="eb859d93-39f2-4309-851b-a2240675d091" />
+  </Folder>
 </Solution>

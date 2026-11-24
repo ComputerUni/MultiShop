@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AlmzjqUP3Zc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BURHAN\\Desktop\\MultiShop\\MultiShop\\Services\\Order\\Presentation\\MultiShop.Order.WebApi\\MultiShop.Order.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BURHAN\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.15\\microsoft.aspnetcore.openapi.10.0.15.nupkg.sha512",
+    "C:\\Users\\BURHAN\\.nuget\\packages\\microsoft.openapi\\2.13.0\\microsoft.openapi.2.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
