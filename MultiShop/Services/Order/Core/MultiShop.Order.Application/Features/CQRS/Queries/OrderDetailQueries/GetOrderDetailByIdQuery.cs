@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace MultiShop.Order.Application.Features.CQRS.Queries.OrderDetailQueries
+{
+    public class GetOrderDetailByIdQuery
+    {
+        public GetOrderDetailByIdQuery(int id)
+        {
+            Id = id;
+        }
+
+        public int Id { get; set; }
+    }
+}
